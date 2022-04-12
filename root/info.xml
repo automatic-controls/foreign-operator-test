@@ -1,0 +1,7 @@
+<extension version="1">
+  <name>ForeignOperatorTest</name>
+  <description>For demonstration and testing purposes, this add-on creates a single foreign operator with administrative privileges.</description>
+  <version>1.0.0</version>
+  <vendor>Automatic Controls Equipment Systems, Inc.</vendor>
+  <web-operator-provider>aces.webctrl.test.operators.ForeignProvider</web-operator-provider>
+</extension>
